@@ -22,7 +22,7 @@ Click to see the application running [https://bitspace-teste.vercel.app/](https:
 
 Click here to view the prototype made in figma [https://www.figma.com/file/KxJJEWfQaBCzEqWwHBRW4b/Layout-Bit-Space?node-id=0%3A1](https://www.figma.com/file/KxJJEWfQaBCzEqWwHBRW4b/Layout-Bit-Space?node-id=0%3A1)
 
-## Preparar ambiente de desenvolvimento
+## Prepare development environment
 
 Before developing or deploying the code, you need to install the dependencies using the command
 
