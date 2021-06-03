@@ -13,6 +13,11 @@ API Key is public on services/api
 
 ![image](https://user-images.githubusercontent.com/69859248/120677045-0cca5c80-c46d-11eb-9e23-b96fb6b2a8ae.png)
 
+# APP in Production
+
+Click to see the application running [https://bitspace-teste.vercel.app/](https://bitspace-teste.vercel.app/)
+
+
 ## Prototype - Figma
 
 Click here to view the prototype made in figma [https://www.figma.com/file/KxJJEWfQaBCzEqWwHBRW4b/Layout-Bit-Space?node-id=0%3A1](https://www.figma.com/file/KxJJEWfQaBCzEqWwHBRW4b/Layout-Bit-Space?node-id=0%3A1)
