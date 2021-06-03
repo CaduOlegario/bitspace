@@ -17,6 +17,8 @@ export const Content = styled.div`
     border-radius: 20px;
     background: #fff;
     
+    filter: drop-shadow(0px 0px 10px rgba(153, 135, 135, 0.25));
+    
 
     header {
         padding: .8rem 1.2rem;
@@ -61,49 +63,6 @@ export const TeamInformation = styled.div`
         section#teamType {
             display: flex;
         }
-    }
-
-    .tags {
-      .react-tag-input {
-        background: white;
-        color: var(--white);
-        border: 1px solid #e1e1e1;
-        min-height: 200px;
-        width: 100%;
-        align-content: flex-start;
-        display: flex;
-        flex-direction: row;
-      }
-      .react-tag-input__input {
-        background: transparent;
-        align-content: flex-start;
-      }
-      .react-tag-input__input::placeholder, .react-tag-input__input:-moz-placeholder, .react-tag-input__input:-ms-input-placeholder, .react-tag-input__input::-moz-placeholder, .react-tag-input__input::-webkit-input-placeholder {
-        color: var(--white); /* Input placeholder */ 
-      }
-      .react-tag-input__tag {
-        background: var(--pink);
-        padding: 0.5rem;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-      }
-      .react-tag-input__tag__remove {
-        background: var(--pink);
-      }
-      .react-tag-input__tag__remove:before, .react-tag-input__tag__remove:after {
-        background: var(--white); /* X icon in remove button */
-        font-size: 1rem;
-      }
-
-      .react-tag-input__tag__content {
-        color: var(--white);
-        font-weight: normal;
-      }
-
-      .react-tag-input__input::placeholder {
-        color: var(--white); /* Input placeholder */ 
-      }
     }
 `
 
